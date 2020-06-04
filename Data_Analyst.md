@@ -1,6 +1,6 @@
 # Data Analyst
 
-![GitHub Logo](https://drive.google.com/file/d/1xnMdzRK1zDHQrvpkKWrdOkUBnAAhj8Pv/view?usp=sharing)
+![GitHub Logo](https://media-exp1.licdn.com/dms/image/C4E03AQGZpn2zWTypIw/profile-displayphoto-shrink_200_200/0?e=1596672000&v=beta&t=v-mIvO0N6cAzJfA2-GxuZ7XFW6UnOhhyjNBMZ9oYTZs)
 
 ## Contact
 * Florian PLASSART
