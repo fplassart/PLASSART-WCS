@@ -14,7 +14,7 @@ En reconversion professionnelle dans les métiers de l'Analyse de Données
 * 09/2007 - 12/2010 : Formation de *Technicien Supérieur Physicien Chimiste* - **AFPA**
 
 ## Expériences professionnelles
-* 01/2019 - 12-2019 : *Responsable Unité Technique Reception* - **EUROFINS Laboratoire Centre**
+* 01/2019 - 12/2019 : *Responsable Unité Technique Reception* - **EUROFINS Laboratoire Centre**
 * 07/2016 - 01/2019 : *Responsable Unité Technique Reception* - **CAE/ISHA *Groupe Alpa***
 * 02/2012 - 07/2016 : *Chargé de codage échantillons* - **CAE *Groupe Veolia***
 
