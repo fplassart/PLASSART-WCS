@@ -1,0 +1,24 @@
+    1  grep "CLUE" crimescene
+    2  grep "Annabel" people
+    3  head -n 40 streets/Hart_Place | tail -n 1
+    4  cd interviews
+    5  cat interview-47246024
+    6  cd ..
+    7  head -n 179 streets/Buckingham_Place | tail -n 1
+    8  cd interviews
+    9  cat interview-699607
+   10  cd ..
+   11  grep -C3 "Honda" vehicles > temporaryfile
+   12  grep -C3 "Blue" temporaryfile > hondablue
+   13  grep -E -A4 "9$" hondablue
+   14  grep -E -A4 "9$" hondablue > hondablueplate
+   15  grep -B1 "6'" hondablueplate
+   16  cd memberships
+   17  cat Fitness_Galaxy AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Erika Owens"
+   18  cat Fitness_Galaxy AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Joe Germuska"
+   19  cat Fitness_Galaxy AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jeremy Bowers"
+   20  cat Fitness_Galaxy AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jacqui Maher"
+   21  cd ..
+   22  grep "Jeremy Bowers" people
+   23  grep "Jacqui Maher" people
+   24  echo Le coupable est Jeremy Bowers
