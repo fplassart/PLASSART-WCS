@@ -1,0 +1,32 @@
+
+Florian@SONY-FLO MINGW64 ~
+$ cd Desktop
+
+Florian@SONY-FLO MINGW64 ~/Desktop
+$ cd WCS
+
+Florian@SONY-FLO MINGW64 ~/Desktop/WCS
+$ ls
+'20191130_Réponse à MJ_SYNERGIE.doc'                                     FINANCIAL_1.sql                   LOGISTIQUE.sql        Power_BI_1_FPL.pbix              Pseudo-code.txt                     'Statistiques mondiales.xlsx'
+ avia_paocc.tsv                                                          FINANCIES_2.sql                   Marketing_num_5.PNG   Power_BI_2_FPL.pbix             'Pwd MySQL.txt'                      'Statistiques mondiales_2.xlsx'
+ avia_paocc_1_Data.csv                                                  'Global statistics.xlsx'           Marketing_num_6.PNG   pptx_fichiers/                   PySpark_SQL_Cheat_Sheet_Python.pdf  'Statistiques mondiales_3.xlsx'
+'avia_tf_apal_1_Data (1).csv'                                            HUMAN_RESSOURCES.sql              Marketing_num_7.PNG  'Presentation Correlation.pptx'   rangement.py                         Tableau_software_1_FPL.twb
+'Certification Google Analytics Individual Qualification _ Google.pdf'   IMG_20180422_164917.jpg           métiers.py            Project_1.odb                    SALES.sql                            Tableau_software_1_FPL.twbx
+ CheckPoint3_FPL.twb                                                     jpg_fichiers/                     mymodule.py           project_1.ods                   'Selecteurs CSS'/                     Tableau_software_2_FPL.twb
+ clmystery-master/                                                       KPI_ADD1.sql                     'new 1.py'*            project_1.twb                    SQL_1.PNG                            xls_fichiers/
+ doc_fichiers/                                                           KPI_ADD6.sql                     'new 2.py'             project_1_FLO.twb                SQL_4.PNG
+ facture_9070093882_2019-12-24.pdf                                      'Liste invités mariage.xls.xlsx'   pdf_fichiers/         project_1_FLO.twbx               SQL_s2.sql
+
+Florian@SONY-FLO MINGW64 ~/Desktop/WCS
+$ cd clmystery-master
+
+Florian@SONY-FLO MINGW64 ~/Desktop/WCS/clmystery-master
+$ ls
+cheatsheet.md  cheatsheet.pdf  hint1  hint2  hint3  hint4  hint5  hint6  hint7  hint8  instructions  LICENSE.md  mystery/  README.md
+
+Florian@SONY-FLO MINGW64 ~/Desktop/WCS/clmystery-master
+$ cd ..
+
+Florian@SONY-FLO MINGW64 ~/Desktop/WCS
+$ pwd
+/c/Users/Florian/Desktop/WCS
